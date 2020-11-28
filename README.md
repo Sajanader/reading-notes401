@@ -8,8 +8,8 @@ If you want to read my simple notes that I am collecting them with a simple way 
 
 ## [ Code 102- Intro to Software Development](https://sajanader.github.io/reading-notes/)
 ## [Code 201 - Foundations of Software Development](https://sajanader.github.io/reading-notes201/)
-## [Code 301 - Intermediate Software Development]()
-## [Code 401 - Advanced Software Development]()
+## [Code 301 - Intermediate Software Development](https://sajanader.github.io/reading-notes301/)
+## [Code 401 - Advanced Software Development](https://sajanader.github.io/reading-notes401/)
 
 |**contents**| **links**             |   **Title**|
 |---        |---                     |    ---     |
