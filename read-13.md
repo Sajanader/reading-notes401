@@ -33,5 +33,3 @@ The first step is to import the required Python libraries into Ipython Notebook.
 
 * I am going to add these target prices to the bos data frame.
 ![image](https://bigdata-madesimple.com/wp-content/uploads/2016/04/RAD.png)
-
-
