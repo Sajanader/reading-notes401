@@ -29,5 +29,9 @@ If you want to read my simple notes that I am collecting them with a simple way 
 |  read-14  | [Link](/read-14.md)    |            |
 |  read-15  | [Link](/read-15.md)    |       |
 |  read-16  | [Link](/read-16.md)    |       |
+|  read-17  | [Link](/read-17.md)    |       |
+|  read-18  | [Link](/read-18.md)    |       |
+|  read-19  | [Link](/read-19.md)    |       |
+|  read-26  | [Link](/read-26.md)    |       |
 
 ![read to be professional develpoer](https://www.careeraddict.com/uploads/article/4662/user-1823161-2016-09-21-07-52-03.jpg)
