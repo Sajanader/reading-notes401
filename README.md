@@ -15,13 +15,13 @@ If you want to read my simple notes that I am collecting them with a simple way 
 |---        |---                     |    ---     |
 |  read-01  | [Link](/read-01.md)    |    |
 |  read-02  | [Link](/read-02.md)    |  |
-|  read-03  |  [Link](/read-03.md)   ||
+|  read-03  |  [Link](/read-03.md)   |          |
 |  read-04  | [Link](/read-04.md)    |   |
 |  read-05  |  [Link](/read-05.md)   |    |
 |  read-06  | [Link](/read-06.md)    |            |
 |  read-07  |[Link](/read-07.md)     | |
 |  read-08  |[Link](/read-08.md)     | |
-|  read-09  |[Link](/read-09.md)    | |
+|  read-09  |[Link](/read-09.md)     |  |
 |  read-10  | [Link](/read-10.md)    |            |
 |  read-11  |  [Link](/read-11.md)   |    |
 |  read-12  | [Link](/read-12.md)    |      |
