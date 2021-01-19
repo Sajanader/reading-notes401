@@ -130,6 +130,8 @@ We can combine the two by making the React state be the “single source of trut
 
 For example, if we want to make the previous example log the name when it is submitted, we can write the form as a controlled component:
 
+>>
+
 ```
 class NameForm extends React.Component {
   constructor(props) {
@@ -162,6 +164,7 @@ class NameForm extends React.Component {
   }
 }
 ```
+>>
 
 
 
