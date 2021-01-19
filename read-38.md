@@ -129,6 +129,7 @@ In HTML, form elements such as <input>, <textarea>, and <select> typically maint
 We can combine the two by making the React state be the “single source of truth”. Then the React component that renders a form also controls what happens in that form on subsequent user input. An input form element whose value is controlled by React in this way is called a “controlled component”.
 
 For example, if we want to make the previous example log the name when it is submitted, we can write the form as a controlled component:
+
 ```
 class NameForm extends React.Component {
   constructor(props) {
@@ -162,11 +163,17 @@ class NameForm extends React.Component {
 }
 ```
 
+
+
+
+
+
 ### The resources:
-[condition rendering](https://reactjs.org/docs/conditional-rendering.html)
-[Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
-[Forms](https://reactjs.org/docs/forms.html)
-[Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
-[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-[A Comprehensive Guide to learning React](https://ui.dev/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+
+[condition rendering](https://reactjs.org/docs/conditional-rendering.html).
+[Lists and Keys](https://reactjs.org/docs/lists-and-keys.html).
+[Forms](https://reactjs.org/docs/forms.html).
+[Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
+[Thinking in React](https://reactjs.org/docs/thinking-in-react.html).
+[A Comprehensive Guide to learning React](https://ui.dev/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/).
 
